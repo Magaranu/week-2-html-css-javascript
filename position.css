@@ -1,0 +1,51 @@
+
+*{
+    padding:0px;
+    margin: 0px;
+    font-size: 30px;
+}.container{
+    background-color:rgb(91, 191, 224);
+    height:50vh;  
+    /* ^full screen ko lagi */
+    display :flex;
+    border: 8px solid rgb(160, 64, 64);
+    
+}
+.item{
+    height: 150px;
+    width: 150px;
+    margin-bottom: 2px;
+
+
+}
+.item1{
+    background-color:aliceblue;
+}
+.item2{
+    background-color:beige;
+
+}
+.item3{
+    background-color:cadetblue;
+   
+   
+    
+}
+.item4{
+    background-color:cornflowerblue;
+    position: sticky;
+    top: 100px;
+}
+.container1{
+    background-color:rgb(147, 80, 255);
+    height: 100vh;
+    
+} 
+.item5 {
+    background-color:rgb(80, 255, 238);
+    height: 150px;
+    width: 150px;
+    margin-bottom: 2px;
+    position: sticky;
+
+}

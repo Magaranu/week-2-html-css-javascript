@@ -1,0 +1,96 @@
+/* .item {
+    background-color: pink;
+    color: black;
+    height: 150px;
+    width: 150px;
+   margin-button: 10px;
+   padding: 5px;
+   border: 1px solid rgb(240, 230, 230);
+   font-size: x-large;
+   text-align: center;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   align-content: center;
+  
+   
+}
+.container{
+    background-color: skyblue;
+    display: flex;
+    height: 100vh;
+    justify-content: space-around;
+    gap: 3px;
+
+
+
+    
+}   
+.item1{
+    background-color: rgb(151, 165, 186);
+     color: black;
+    height: 150px;
+    width: 150px;
+   margin-button: 10px;
+   padding: 5px;
+   border: 1px solid rgb(240, 230, 230);
+   font-size: x-large;
+   text-align: center;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   align-content: center;
+   
+
+    
+}
+.item2{
+    background-color: rgb(155, 190, 225);
+    color: black;
+    height: 150px;
+    width: 150px;
+   margin-button: 10px;
+   padding: 5px;
+   border: 1px solid rgb(240, 230, 230);
+   font-size: x-large;
+   text-align: center;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   align-content: center;
+}
+.item3{
+    background-color: rgb(90, 112, 134);
+    color: black;
+    height: 150px;
+    width: 150px;
+   margin-button: 10px;
+   padding: 5px;
+   border: 1px solid rgb(240, 230, 230);
+   font-size: x-large;
+   text-align: center;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   align-content: center;
+   /* flex-grow: 1; */
+  
+}
+.item4{
+    background-color: rgb(38, 118, 198);
+    color: black;
+    height: 150px;
+    width: 150px;
+   margin-button: 10px;
+   padding: 5px;
+   border: 1px solid rgb(240, 230, 230);
+   font-size: x-large;
+   text-align: center;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   align-content: center;
+   /* flex-grow: 1; */
+  
+} */
+
+.container{
+    list-style-type: none;
+    background-color: rgb(33, 40, 104);
+}
+.item{
+    background-color: rgb(135, 167, 167);
+    display: flex;
+    justify-content: space-between;
+    text-align: left;}
+    
