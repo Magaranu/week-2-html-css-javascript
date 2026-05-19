@@ -1,0 +1,18 @@
+.div1{
+    background-color: blue;
+}
+.div2{
+    background-color: red;
+
+}
+.div3{
+    background-color: green;
+}
+p{
+    background-color: yellowgreen;
+}
+span{
+    background-color: rgb(226, 42, 42);
+    display: inline-block;
+   
+}

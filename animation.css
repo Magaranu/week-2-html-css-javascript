@@ -1,0 +1,37 @@
+p{
+    animation: hellocoder 2s ease-in;
+}
+@keyframes hellocoder{
+    0%{
+        color: blue;
+    }
+    70%{
+        color: red;
+    }
+    100%{
+        color: green;
+        font-size: 50px;
+    }
+}
+.item{
+    height: 100px;
+    width: 300px;
+    background-color: yellow;
+    border: 2px solid green;
+    animation: helloAnushka 10s ease-in-out;
+}
+
+    
+        @keyframes helloAnushka{
+    0%{
+        color: blue;
+    }
+    50%{
+        background-color: yellow;
+        border: 50px solid green;
+    }
+    100%{
+        font-size: 60px;
+    }
+}
+    
